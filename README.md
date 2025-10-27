@@ -1,3 +1,3 @@
 Full name: John Swanson
 Project: Musical Artist Site
-Netify Link: 
+Netify Link: https://musicalartist.netlify.app/
